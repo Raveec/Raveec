@@ -1,5 +1,5 @@
 
-# 👋 Hey, I'm Atakwn
+# 👋 Hey, I'm Raveec
 
 🎯 **Full-Stack Developer**, backend-focused, passionate about building clean, scalable, and high-performance systems — with a deep interest in modern technologies and game development.
 
@@ -53,7 +53,7 @@ I work with a wide range of technologies, from **JavaScript/TypeScript** to **Ru
 ---
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Atakwn-fy?theme=moebooru" alt="visitor counter"/>
+  <img src="https://count.getloli.com/get/@Raveec?theme=moebooru" alt="visitor counter"/>
 </p>
 
 ---
