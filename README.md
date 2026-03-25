@@ -1,4 +1,3 @@
-
 # 👋 Hey, I'm Raveec
 
 🎯 **Full-Stack Developer**, backend-focused, passionate about building clean, scalable, and high-performance systems — with a deep interest in modern technologies and game development.
@@ -9,7 +8,7 @@
 
 I'm a full-stack developer with over **6 years of hands-on experience**, specializing in back-end systems, automation, and creative software solutions.
 
-I work with a wide range of technologies, from **JavaScript/TypeScript** to **Rust**, **Elixir**, and **C++**, always seeking performance, security, and clean architecture. My passion for programming also extends to **game development**, where I explore engines and tools for fun and innovation.
+I work with a wide range of technologies, from **JavaScript/TypeScript** to **Rust**, **Elixir**, **Python**, and **C++**, always seeking performance, security, and clean architecture. My passion for programming also extends to **game development**, where I explore engines and tools for fun and innovation.
 
 ---
 
@@ -22,8 +21,8 @@ I work with a wide range of technologies, from **JavaScript/TypeScript** to **Ru
 | **2020** | Joined [**New Dev**](https://newdev.org/), a company offering freelance-like services for websites, APIs, Discord bots, and more. Also contributed to building a management bot for **Try Soft** |
 | **2021** | Shifted focus to **web development** — full-stack apps and APIs |
 | **2022** | Got deep into **Rust** and **Elixir**, building high-performance backends |
-| **2023** | Started working with **game development** — engines, tools, and gameplay systems |
-| **Now**  | Backend specialist working with **Rust**, **C++**, **Elixir**, and building scalable APIs |
+| **2023 – 2024** | Served as **COO (Chief Operations Officer) at Square Cloud**, a hosting company, leading operations, infrastructure, and platform reliability. Also started working with **game development** — engines, tools, and gameplay systems |
+| **Now**  | Backend specialist working with **Rust**, **C++**, **Elixir**, and **Typescript**, building scalable APIs |
 
 ---
 
@@ -32,6 +31,7 @@ I work with a wide range of technologies, from **JavaScript/TypeScript** to **Ru
 ### Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
