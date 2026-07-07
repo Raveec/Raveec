@@ -99,7 +99,7 @@ Beyond backend engineering, I have a strong interest in **game development**, ex
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Raveec/Raveec/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raveec&theme=react-dark" width="100%"/>
 
 </div>
 
