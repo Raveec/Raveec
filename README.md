@@ -22,7 +22,7 @@ I'm a full-stack developer with **6+ years of hands-on experience**, specializin
 Beyond backend engineering, I have a strong interest in **game development**, exploring engines and tools where systems design meets creativity.
 
 ```
-▸ Currently focused on   →  Rust, Elixir & distributed backend systems
+▸ Currently focused on    →  Rust, Elixir & distributed backend systems
 ▸ Currently exploring     →  Game engine architecture (Unity / Godot)
 ▸ Open to                 →  Backend / systems engineering roles & collaborations
 ▸ Reach me                →  see contact section below
