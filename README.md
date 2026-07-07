@@ -110,7 +110,7 @@ Beyond backend engineering, I have a strong interest in **game development**, ex
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/Raveec)
-[![Discord](https://img.shields.io/badge/Discord-1396337482940809216-0f172a?style=for-the-badge&logo=discord&logoColor=a855f7)](https://discord.com/users/1396337482940809216)
+[![Discord](https://img.shields.io/badge/Discord-Raveec-1e1033?style=for-the-badge&logo=discord&logoColor=a855f7)](https://discord.com/users/1396337482940809216)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-0f172a?style=for-the-badge&logo=ko-fi&logoColor=a855f7)](https://ko-fi.com/raveec)
 
 </div>
