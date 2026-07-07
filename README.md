@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Raveec&fontSize=70&fontColor=00d9ff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Specialist&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1033,100:3b1a5c&height=220&section=header&text=Raveec&fontSize=70&fontColor=a855f7&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Specialist&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=Backend-Focused+Full-Stack+Developer;Building+Scalable+Systems+Since+2017;Rust+%E2%80%A2+Elixir+%E2%80%A2+TypeScript+%E2%80%A2+Python;6%2B+Years+Turning+Ideas+Into+Infrastructure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=Backend-Focused+Full-Stack+Developer;Building+Scalable+Systems+Since+2017;Rust+%E2%80%A2+Elixir+%E2%80%A2+TypeScript+%E2%80%A2+Python;6%2B+Years+Turning+Ideas+Into+Infrastructure)](https://git.io/typing-svg)
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Raveec&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/Raveec)
-[![Followers](https://img.shields.io/github/followers/Raveec?style=flat-square&color=00d9ff&labelColor=0f172a)](https://github.com/Raveec)
+[![Profile Views](https://komarev.com/ghpvc/?username=Raveec&color=a855f7&style=flat-square&label=Profile+Views)](https://github.com/Raveec)
+[![Followers](https://img.shields.io/github/followers/Raveec?style=flat-square&color=a855f7&labelColor=0f172a)](https://github.com/Raveec)
 
 </div>
 
@@ -99,13 +99,6 @@ Beyond backend engineering, I have a strong interest in **game development**, ex
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Raveec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raveec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00d9ff&text_color=c9d1d9" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=Raveec&theme=tokyonight&hide_border=true&background=0f172a&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" height="165"/>
-
-<br>
-
 <img src="https://raw.githubusercontent.com/Raveec/Raveec/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
@@ -116,12 +109,12 @@ Beyond backend engineering, I have a strong interest in **game development**, ex
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/Raveec)
-[![Discord](https://img.shields.io/badge/Discord-1396337482940809216-0f172a?style=for-the-badge&logo=discord&logoColor=00d9ff)](https://discord.com/users/1396337482940809216)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-0f172a?style=for-the-badge&logo=ko-fi&logoColor=00d9ff)](https://ko-fi.com/raveec)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/Raveec)
+[![Discord](https://img.shields.io/badge/Discord-1396337482940809216-0f172a?style=for-the-badge&logo=discord&logoColor=a855f7)](https://discord.com/users/1396337482940809216)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-0f172a?style=for-the-badge&logo=ko-fi&logoColor=a855f7)](https://ko-fi.com/raveec)
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b1a5c,100:1e1033&height=100&section=footer" width="100%"/>
