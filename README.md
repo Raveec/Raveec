@@ -102,7 +102,7 @@ Beyond backend engineering, I have a strong interest in **game development**, ex
 <img src="https://github-readme-stats.vercel.app/api?username=Raveec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raveec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00d9ff&text_color=c9d1d9" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raveec&theme=tokyonight&hide_border=true&background=0f172a&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Raveec&theme=tokyonight&hide_border=true&background=0f172a&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" height="165"/>
 
 <br>
 
